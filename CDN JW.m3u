@@ -25,8 +25,11 @@ https://abre.ai/jaR3
 #EXTINF:-1 tvg-id="" tvg-name="Em Ritmo De Fuga" tvg-logo="https://abre.ai/i03T" group-title="FILMES",Em Ritmo De Fuga
 https://abre.ai/jaRZ
 
-#EXTINF:-1 tvg-id="" tvg-name="Fazendo Meu Filme" tvg-logo="https://abre.ai/jaST" group-title="FILMES", Fazendo Meu Filme
+#EXTINF:-1 tvg-id="" tvg-name="Fazendo Meu Filme" tvg-logo="https://abre.ai/jaST" group-title="FILMES",Fazendo Meu Filme
 https://abre.ai/jaSR
+
+#EXTINF:-1 tvg-id="" tvg-name="Fale Comigo" tvg-logo="https://abre.ai/ja1z" group-title="FILMES",Fale Comigo
+https://abre.ai/ja1y
 
 #EXTINF:-1 tvg-id="" tvg-name="Gran Turismo De Jogador A Corredor" tvg-logo="https://abre.ai/iQYN" group-title="FILMES",Gran Turismo De Jogador A Corredor
 https://abre.ai/jaRO
@@ -55,7 +58,7 @@ https://abre.ai/jaR6
 #EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 2" tvg-logo="https://abre.ai/i1Ft" group-title="FILMES",Os Mercenários 2
 https://abre.ai/jaR9
 
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 3" tvg-logo=https://abre.ai/i1FH"" group-title="FILMES",Os Mercenários 3
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 3" tvg-logo="https://abre.ai/i1FH" group-title="FILMES",Os Mercenários 3
 https://abre.ai/jaSd
 
 #EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 4" tvg-logo="https://abre.ai/i1FN" group-title="FILMES",Os Mercenários 4
@@ -70,11 +73,14 @@ https://abre.ai/jaSn
 #EXTINF:-1 tvg-id="" tvg-name="O Protetor: Capítulo Final" tvg-logo="https://abre.ai/i26I" group-title="FILMES",O Protetor Capítulo Final
 https://abre.ai/jaSp
 
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil" tvg-logo="https://abre.ai/i4AI" group-title="FILMES",Resident Evil
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: O Hóspede Maldito" tvg-logo="https://abre.ai/i4AI" group-title="FILMES",Resident Evil: O Hóspede Maldito
 https://abre.ai/jaSN
 
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 2" tvg-logo="https://abre.ai/i4Eo" group-title="FILMES",Resident Evil 2
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 2: Apocalipse" tvg-logo="https://abre.ai/i4Eo" group-title="FILMES",Resident Evil 2: Apocalipse
 https://abre.ai/jaSP
+
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 3: A Extinção" tvg-logo="https://abre.ai/jaWP" group-title="FILMES",Resident Evil 3: A Extinção
+https://abre.ai/jaWu
 
 #EXTINF:-1 tvg-id="" tvg-name="Ted" tvg-logo="https://abre.ai/i4Rb" group-title="FILMES",Ted
 https://abre.ai/jaSJ
