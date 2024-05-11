@@ -1,16 +1,17 @@
-#EXTINF:-1 tvg-id="" tvg-name="300" tvg-logo="https://n9.cl/msbkb" group-title="FILMES",300
+#EXTM3U8
+#EXTINF:0 tvg-logo="https://n9.cl/msbkb" group-title="FILMES",300
 https://n9.cl/nve7e
 
-#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão Do Império" tvg-logo="https://n9.cl/0hkor" group-title="FILMES",300: A Ascensão Do Império
+#EXTINF:0 tvg-logo="https://n9.cl/0hkor" group-title="FILMES",300: A Ascensão Do Império
 https://n9.cl/cmt2f
 
-#EXTINF:-1 tvg-id="" tvg-name="60 Minutos" tvg-logo="https://n9.cl/qe3cy" group-title="FILMES",60 Minutos
+#EXTINF:0 tvg-logo="https://n9.cl/qe3cy" group-title="FILMES",60 Minutos
 https://n9.cl/7y192
 
-#EXTINF:-1 tvg-id="" tvg-name="A Fera" tvg-logo="https://n9.cl/ewshf8" group-title="FILMES",A Fera
+#EXTINF:0 tvg-logo="https://n9.cl/ewshf8" group-title="FILMES",A Fera
 https://n9.cl/k2n5x
 
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga Das Galinhas" tvg-logo="https://n9.cl/hiv7a" group-title="FILMES",A Fuga Das Galinhas
+#EXTINF:0 tvg-logo="https://n9.cl/hiv7a" group-title="FILMES",A Fuga Das Galinhas
 https://n9.cl/6flm4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Fuga Das Galinhas: A Ameaça Dos Nuggets" tvg-logo="https://n9.cl/3guwn" group-title="FILMES",A Fuga Das Galinhas: A Ameaça Dos Nuggets
@@ -55,6 +56,9 @@ https://n9.cl/0wikc
 #EXTINF:-1 tvg-id="" tvg-name="Fazendo Meu Filme" tvg-logo="https://n9.cl/pwzle" group-title="FILMES",Fazendo Meu Filme
 https://n9.cl/cbad1
 
+#EXTINF:0 tvg-logo="https://n9.cl/39brc" group-title="FILMES",Ghostbusters Apocalipse De Gelo
+https://n9.cl/hdki0
+
 #EXTINF:-1 tvg-id="" tvg-name="Five Nights At Freddy's - O Pesadelo Sem Fim" tvg-logo="https://n9.cl/y5cmo" group-title="FILMES",Five Nights At Freddy's - O Pesadelo Sem Fim
 https://n9.cl/t13ax
 
@@ -75,6 +79,18 @@ https://n9.cl/ex3ggy
 
 #EXTINF:-1 tvg-id="" tvg-name="Jester: A Morte Sorri" tvg-logo="https://n9.cl/it1ez" group-title="FILMES",Jester: A Morte Sorri
 https://n9.cl/gelwo
+
+#EXTINF:0 tvg-logo="https://n9.cl/rm2ky" group-title="FILMES",Kung Fu Panda
+https://n9.cl/4mcqt
+
+#EXTINF:0 tvg-logo="https://n9.cl/204kp" group-title="FILMES",Kung Fu Panda 2
+https://n9.cl/asqpg
+
+#EXTINF:0 tvg-logo="https://n9.cl/hxmhp" group-title="FILMES",Kung Fu Panda 3
+https://n9.cl/jxfq9q
+
+#EXTINF:0 tvg-logo="https://n9.cl/sdsul" group-title="FILMES",Kung Fu Panda 4
+https://n9.cl/lqrk1
 
 #EXTINF:-1 tvg-id="" tvg-name="Lilo & Stitch" tvg-logo="https://n9.cl/avbhi" group-title="FILMES",Lilo & Stitch
 https://n9.cl/wpb650
@@ -99,6 +115,9 @@ https://n9.cl/k1sao
 
 #EXTINF:-1 tvg-id="" tvg-name="Need For Speed" tvg-logo="https://n9.cl/k19za" group-title="FILMES",Need For Speed: O Filme
 https://n9.cl/zuj2g
+
+#EXTINF:0 tvg-logo="https://n9.cl/ud22v" group-title="SÉRIES", Ninja Kamui EP1
+https://n9.cl/t1h36w
 
 #EXTINF:-1 tvg-id="" tvg-name="O Auto Da Compadecida" tvg-logo="https://n9.cl/p8t4p" group-title="FILMES",O Auto Da Compadecida
 https://n9.cl/uto1c
@@ -208,11 +227,41 @@ https://abre.ai/jaSJ
 #EXTINF:-1 tvg-id="" tvg-name="Ted 2" tvg-logo="https://abre.ai/i4RD" group-title="FILMES",Ted 2
 https://abre.ai/jaSL
 
-#EXTINF:-1 tvg-id="" tvg-name="Uma Garota De Muita Sorte" tvg-logo="https://abre.ai/i4tv" group-title="FILMES",Uma Garota De Muita Sorte
-https://abre.ai/jaSF
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP1
+https://n9.cl/4wzyh8
 
-#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10" tvg-logo="https://abre.ai/iQYI" group-title="FILMES",Velozes E Furiosos 10
-https://abre.ai/jaRK
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP2
+https://n9.cl/arpk4
 
-#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 9" tvg-logo="https://abre.ai/jcVT" group-title="FILMES",Velozes E Furiosos 9
-https://abre.ai/jcVP
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP3
+https://n9.cl/tnuyw
+
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP4
+https://n9.cl/91gtxd
+
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP5
+https://n9.cl/bscvi
+
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP6
+https://n9.cl/6py9f
+
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP7
+https://n9.cl/agx60
+
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP8
+https://n9.cl/r8eoh
+
+#EXTINF:0 tvg-logo="https://n9.cl/b4pw6" group-title="SÉRIES",The Last Of Us EP9
+https://n9.cl/e8xua
+
+#EXTINF:0 tvg-logo="https://n9.cl/cnz9w" group-title="FILMES",Uma Garota De Muita Sorte
+https://n9.cl/s6vy2
+
+#EXTINF:-1 tvg-id="" tvg-name="Velozes & Furiosos 10" tvg-logo="https://n9.cl/jwgyr" group-title="FILMES",Velozes E Furiosos 10
+https://n9.cl/bkuzt
+
+#EXTINF:0 tvg-logo="https://n9.cl/3iv5r" group-title="FILMES",Velozes & Furiosos 9
+https://n9.cl/hjn99x
+
+#EXTINF:0 tvg-logo="https://n9.cl/csadi" group-title="FILMES",Velozes & Furiosos 8
+https://n9.cl/quwu5
