@@ -17,16 +17,16 @@ https://n9.cl/6flm4
 #EXTINF:0 tvg-logo="https://n9.cl/3guwn" group-title="FILMES",A Fuga Das Galinhas: A Ameaça Dos Nuggets
 https://n9.cl/hei0q
 
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Super Máquina O Filme" tvg-logo="https://n9.cl/0a76y" group-title="FILMES",A Nova Super Máquina O Filme
+#EXTINF:0 tvg-logo="https://n9.cl/0a76y" group-title="FILMES",A Nova Super Máquina O Filme
 https://n9.cl/zle5v
 
-#EXTINF:-1 tvg-id="" tvg-name="A Profissional" tvg-logo="https://n9.cl/8xoh3a" group-title="FILMES",A Profissional
+#EXTINF:0 tvg-logo="https://n9.cl/8xoh3a" group-title="FILMES",A Profissional
 https://n9.cl/er8af
 
-#EXTINF:-1 tvg-id="" tvg-name="As Marvels" tvg-logo="https://n9.cl/tsn0a" group-title="FILMES",As Marvels
+#EXTINF:0 tvg-logo="https://n9.cl/tsn0a" group-title="FILMES",As Marvels
 https://n9.cl/8eld7
 
-#EXTINF:-1 tvg-id="" tvg-name="Boyka O Imbatível" tvg-logo="https://n9.cl/iiq9h" group-title="FILMES",Boyka O Imbatível
+#EXTINF:0 tvg-logo="https://n9.cl/iiq9h" group-title="FILMES",Boyka O Imbatível
 https://n9.cl/ojjke
 
 #EXTINF:-1 tvg-id="" tvg-name="Carros" tvg-logo="https://n9.cl/bsb8p6" group-title="FILMES",Carros
@@ -56,11 +56,14 @@ https://n9.cl/0wikc
 #EXTINF:-1 tvg-id="" tvg-name="Fazendo Meu Filme" tvg-logo="https://n9.cl/pwzle" group-title="FILMES",Fazendo Meu Filme
 https://n9.cl/cbad1
 
+#EXTINF:0 tvg-logo="https://n9.cl/y5cmo" group-title="FILMES",Five Nights At Freddy's - O Pesadelo Sem Fim
+https://n9.cl/t13ax
+
 #EXTINF:0 tvg-logo="https://n9.cl/39brc" group-title="FILMES",Ghostbusters Apocalipse De Gelo
 https://n9.cl/2ihkc
 
-#EXTINF:-1 tvg-id="" tvg-name="Five Nights At Freddy's - O Pesadelo Sem Fim" tvg-logo="https://n9.cl/y5cmo" group-title="FILMES",Five Nights At Freddy's - O Pesadelo Sem Fim
-https://n9.cl/t13ax
+#EXTINF:0 tvg-logo="https://n9.cl/64nntp" group-title="FILMES",Godzilla E Kong O Novo Imperio
+https://n9.cl/g07a6
 
 #EXTINF:-1 tvg-id="" tvg-name="Gran Turismo: De Jogador a Corredor" tvg-logo="https://n9.cl/s8whi" group-title="FILMES",Gran Turismo: De Jogador a Corredor
 https://n9.cl/u4jwt
@@ -116,9 +119,6 @@ https://n9.cl/k1sao
 #EXTINF:-1 tvg-id="" tvg-name="Need For Speed" tvg-logo="https://n9.cl/k19za" group-title="FILMES",Need For Speed: O Filme
 https://n9.cl/zuj2g
 
-#EXTINF:0 tvg-logo="https://n9.cl/ud22v" group-title="SÉRIES", Ninja Kamui EP1
-https://n9.cl/t1h36w
-
 #EXTINF:-1 tvg-id="" tvg-name="O Auto Da Compadecida" tvg-logo="https://n9.cl/p8t4p" group-title="FILMES",O Auto Da Compadecida
 https://n9.cl/uto1c
 
@@ -158,7 +158,7 @@ https://n9.cl/kgckbc
 #EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 4" tvg-logo="https://n9.cl/9o3pi" group-title="FILMES",Os Mercenários 4
 https://n9.cl/9lnsg
 
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: O Hóspede Maldito" tvg-logo="https://abre.ai/i4AI" group-title="FILMES",Resident Evil: O Hóspede Maldito
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: O Hóspede Maldito" tvg-logo="https://abre.ai/i4AI" group-title="FILMES",Resident Evil 1: O Hóspede Maldito
 https://abre.ai/jaSN
 
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil 2: Apocalipse" tvg-logo="https://abre.ai/i4Eo" group-title="FILMES",Resident Evil 2: Apocalipse
@@ -176,14 +176,14 @@ https://abre.ai/jbGu
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil 6: O Capítulo Final" tvg-logo="https://abre.ai/jcml" group-title="FILMES",Resident Evil 6: O Capítulo Final
 https://abre.ai/jcmk
 
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série" tvg-logo="https://abre.ai/jcne" group-title="SÉRIES",Resident Evil: A Série EP1
-https://abre.ai/jcng
+#EXTINF:0 tvg-logo="https://n9.cl/axq90" group-title="SÉRIES",Resident Evil: A Série EP1
+https://n9.cl/eae10
 
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série" tvg-logo="https://abre.ai/jcne" group-title="SÉRIES",Resident Evil: A Série EP2
-https://abre.ai/jcni
+#EXTINF:0 tvg-logo="https://n9.cl/axq90" group-title="SÉRIES",Resident Evil: A Série EP2
+https://n9.cl/zz7lv
 
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série" tvg-logo="https://abre.ai/jcne" group-title="SÉRIES",Resident Evil: A Série EP3
-https://abre.ai/jcnl
+#EXTINF:0 tvg-logo="https://n9.cl/axq90" group-title="SÉRIES",Resident Evil: A Série EP3
+https://n9.cl/f9wss4
 
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série" tvg-logo="https://abre.ai/jcne" group-title="SÉRIES",Resident Evil: A Série EP4
 https://abre.ai/jcnm
@@ -257,11 +257,11 @@ https://n9.cl/e8xua
 #EXTINF:0 tvg-logo="https://n9.cl/cnz9w" group-title="FILMES",Uma Garota De Muita Sorte
 https://n9.cl/s6vy2
 
-#EXTINF:-1 tvg-id="" tvg-name="Velozes & Furiosos 10" tvg-logo="https://n9.cl/jwgyr" group-title="FILMES",Velozes E Furiosos 10
-https://n9.cl/bkuzt
+#EXTINF:0 tvg-logo="https://n9.cl/csadi" group-title="FILMES",Velozes & Furiosos 8
+https://n9.cl/quwu5
 
 #EXTINF:0 tvg-logo="https://n9.cl/3iv5r" group-title="FILMES",Velozes & Furiosos 9
 https://n9.cl/hjn99x
 
-#EXTINF:0 tvg-logo="https://n9.cl/csadi" group-title="FILMES",Velozes & Furiosos 8
-https://n9.cl/quwu5
+#EXTINF:-1 tvg-id="" tvg-name="Velozes & Furiosos 10" tvg-logo="https://n9.cl/jwgyr" group-title="FILMES",Velozes E Furiosos 10
+https://n9.cl/bkuzt
